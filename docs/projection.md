@@ -5,6 +5,8 @@
 - USB-C to VGA adapter
 - 5 meter HDMI cable
 - 5 meter VGA cable
+- VGA-female to HDMI-male
+- HDMI-female to VGA-male
 - Mini-displayport to HDMI adapter
 - Mini-displayport to VGA adapter
 - USB-C to USB adapter
