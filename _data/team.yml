@@ -1,0 +1,60 @@
+- 
+  id: 0
+  name: "Senior"
+  surname: "Tester"
+  title: "Fancy Title"
+  thumbnailUrl: user-200.png
+  team: true
+  ribbon: 
+    - {abbr: "PTM", title: "Porto Testers Meetup"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://zasadnyy.com/"}
+- 
+  id: 1
+  name: "Senior"
+  surname: "Tester"
+  title: "Fancy Title"
+  thumbnailUrl: user-200.png
+  team: true
+  ribbon: 
+    - {abbr: "PTM", title: "Porto Testers Meetup"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
+- 
+  id: 2
+  name: "Senior"
+  surname: "Tester"
+  title: "Fancy Title"
+  thumbnailUrl: user-200.png
+  team: true
+  ribbon: 
+    - {abbr: "PTM", title: "Porto Testers Meetup"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 4
+  name: "Senior"
+  surname: "Tester"
+  title: "Fancy Title"
+  thumbnailUrl: user-200.png
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 7
+  name: "Senior"
+  surname: "Tester"
+  title: "Fancy Title"
+  thumbnailUrl: user-200.png
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
