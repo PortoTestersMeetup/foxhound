@@ -1,60 +1,55 @@
-- 
+-
   id: 0
-  name: "Senior"
-  surname: "Tester"
-  title: "Fancy Title"
-  thumbnailUrl: user-200.png
+  name: "Fábio"
+  surname: "Barbosa"
+  title: "Mobile Test Automation Engineer"
+  company: "Farfetch"
+  thumbnailUrl: fabio_barbosa.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "PTM", title: "Porto Testers Meetup"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/T3ste5"}
+    - {name: "github", link: "https://github.com/FabioCB"}
+    - {name: "linkedin", link: "https://linkedin.com/in/fabiobarbosa92"}
+-
   id: 1
-  name: "Senior"
-  surname: "Tester"
-  title: "Fancy Title"
-  thumbnailUrl: user-200.png
+  name: "Filipe"
+  surname: "Carvalho"
+  title: "Senior QA Automation Engineer"
+  company: "Talkdesk"
+  thumbnailUrl: filipe_carvalho.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "PTM", title: "Porto Testers Meetup"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/filipemcarvalh0"}
+    - {name: "github", link: "https://github.com/filipemcarvalho"}
+    - {name: "linkedin", link: "https://linkedin.com/in/filipemiguelcarvalho"}
+-
   id: 2
-  name: "Senior"
-  surname: "Tester"
-  title: "Fancy Title"
-  thumbnailUrl: user-200.png
+  name: "Nuno"
+  surname: "Matos"
+  title: "Senior QA"
+  company: "Xing"
+  thumbnailUrl: nuno_matos_2.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "PTM", title: "Porto Testers Meetup"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/MatosPicky"}
+    - {name: "github", link: "https://github.com/nmatos"}
+    - {name: "linkedin", link: "https://linkedin.com/in/nuno-matos-9b72262"}
+-
   id: 4
-  name: "Senior"
-  surname: "Tester"
-  title: "Fancy Title"
-  thumbnailUrl: user-200.png
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Senior"
-  surname: "Tester"
-  title: "Fancy Title"
-  thumbnailUrl: user-200.png
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Filipe"
+  surname: "Freire"
+  title: "Test Automation Engineer"
+  company: "Blip"
+  thumbnailUrl: filipe_freire.jpeg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/filrfreire"}
+    - {name: "github", link: "https://github.com/filfreire"}
+    - {name: "linkedin", link: "https://linkedin.com/in/filfreire"}
+    - {name: "site", link: "http://filfreire.com/"}
