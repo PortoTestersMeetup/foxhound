@@ -12,9 +12,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "PTM Conf"
 email: "portotestersmeetup@gmail.com"
-description: "Foxhound event description"
-baseurl: "/foxhound"
-url: "https://portotestersmeetup.github.io"
+description: "PTM Conf 2018"
+baseurl: ""
+url: "http://ptmconf.com"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-XXXXXXXX-X"
 #googleAnalyticsSiteUrl: "foxhound.github.io"
