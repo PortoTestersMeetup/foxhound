@@ -53,6 +53,6 @@ $long-cubic-transition: all .5s cubic-bezier(0.175, 0.885, 0.320, 1.275);
 $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
 $logos-sprite: $sprites-dir + "/logos.svg";
-$logo-img: $image-dir + "/ptm.png";
+$logo-img: $image-dir + "/ptm_logo.png";
 
 @import "modules/all";

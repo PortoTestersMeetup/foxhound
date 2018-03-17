@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Foxhound Porto"
+title: "PTM Conf"
 email: "portotestersmeetup@gmail.com"
 description: "Foxhound event description"
 baseurl: "/foxhound"
@@ -30,7 +30,7 @@ organizerLink: "https://portotestersmeetup.github.io"
 
 # Head
 metaKeywords: "event, testing, programming, testers, developers, porto"
-twitterAccount: "@Foxhound"
+twitterAccount: "@PTMConf"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -55,7 +55,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Foxhound Porto 2018"
+heroTitle: "PTM Conf 2018"
 eventDate: "June, 2018"
 #typeoutTextValues: '"", "Portugal", "Porto"'
 #typeoutFallback: "Porto"
@@ -64,9 +64,9 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Foxhound"
+aboutTitle: "About PTM Conf"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ #- {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
@@ -115,7 +115,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "foxhound"
+twitterHashTag: "ptmconf"
 twitterFeed: "http://google.com"
 
 # Partners Block

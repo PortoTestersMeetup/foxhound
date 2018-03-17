@@ -1,8 +1,8 @@
-- 
+-
   group: "Main organizer"
-  elements: 
-    - {name: "Porto Testers Meetup", description: "Porto Testers Meetup - Open and volunteer Testers community", link: "https://portotestersmeetup.github.io", imageUrl: "gdg-lviv.svg"}
-- 
+  elements:
+    - {name: "Porto Testers Meetup", description: "Porto Testers Meetup - Open and volunteer Testers community", link: "https://portotestersmeetup.github.io", imageUrl: "ptm_logo.png"}
+-
   group: "Co-organizers"
-  elements: 
+  elements:
     - {name: "TBA", description: "TBA", link: "http://tba", imageUrl: "gdg-kyiv.svg"}

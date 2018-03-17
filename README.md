@@ -1,4 +1,4 @@
-# foxhound
+# foxhound (PTM Conf)
 
 ## How to build
 
