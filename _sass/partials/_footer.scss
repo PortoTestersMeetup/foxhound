@@ -21,6 +21,11 @@ $footer-links-color: #8b8b8b;
     }
     a {
         color: $footer-links-color;
+        white-space: pre-wrap;      /* CSS3 */
+        white-space: -moz-pre-wrap; /* Firefox */
+        white-space: -pre-wrap;     /* Opera <7 */
+        white-space: -o-pre-wrap;   /* Opera 7 */
+        word-wrap: break-word;      /* IE */
         &:hover {
             text-decoration: underline;
         }
