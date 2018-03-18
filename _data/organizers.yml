@@ -5,4 +5,4 @@
 -
   group: "Co-organizers"
   elements:
-    - {name: "TBA", description: "TBA", link: "http://tba", imageUrl: "gdg-kyiv.svg"}
+    - {name: "GDG Porto", description: "Google Developer Group - Porto chapter", link: "http://gdgporto.xyz/", imageUrl: "gdgporto.png"}
