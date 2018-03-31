@@ -48,10 +48,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
-bottomNavigationLinks:
- - {link: "https://goo.gl/yeo83v", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://goo.gl/yeo83v", text: "Become a speaker"}
+# bottomNavigationLinks:
+#  - {link: "https://goo.gl/yeo83v", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "https://goo.gl/yeo83v", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,9 +59,9 @@ heroTitle: "PTM Conf 2018"
 eventDate: "June, 2018"
 #typeoutTextValues: '"", "Portugal", "Porto"'
 #typeoutFallback: "Porto"
-heroButtons:
- - {link: "https://goo.gl/yeo83v", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# heroButtons:
+#  - {link: "https://goo.gl/yeo83v", text: "Become a speaker"}
+#  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About PTM Conf"
