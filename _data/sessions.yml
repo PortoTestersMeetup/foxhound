@@ -1,6 +1,6 @@
 -
   id: 307
-  title: "Interval"
+  title: "Break"
   place: "TBA"
   service: true
   description: "TBA"
@@ -16,14 +16,14 @@
   service: true
 -
   id: 500
-  title: "Opening"
+  title: "Keynote"
   description: "TBA"
   subtype: keynote
   speakers: [1]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."
+  #presentation: "https://speakerdeck.com/...."
+  #video: "//www.youtube.com/embed/..."
 -
   id: 501
   title: "Closure"
@@ -32,8 +32,6 @@
   speakers: [1]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."  
 -
   id: 001
   title: "TBA"
@@ -42,8 +40,6 @@
   speakers: [1]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."
 -
   id: 002
   title: "TBA"
@@ -52,8 +48,6 @@
   speakers: [2]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."
 -
   id: 003
   title: "TBA"
@@ -62,8 +56,6 @@
   speakers: [3]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."
 -
   id: 004
   title: "TBA"
@@ -72,8 +64,6 @@
   speakers: [4]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."
 -
   id: 005
   title: "TBA"
@@ -82,8 +72,6 @@
   speakers: [5]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."
 -
   id: 006
   title: "TBA"
@@ -92,8 +80,6 @@
   speakers: [6]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."
 -
   id: 007
   title: "TBA"
@@ -102,5 +88,3 @@
   speakers: [7]
   language: en
   complexity: "TBA"
-  presentation: "https://speakerdeck.com/...."
-  video: "//www.youtube.com/embed/..."
