@@ -18,7 +18,7 @@
   surname: "Carvalho"
   title: "Senior QA Automation Engineer"
   company: "Talkdesk"
-  thumbnailUrl: filipe_carvalho.jpg
+  thumbnailUrl: filipe_carvalho_bw.jpg
   team: true
   ribbon:
     - {abbr: "PTM", title: "Porto Testers Meetup"}
@@ -32,7 +32,7 @@
   surname: "Matos"
   title: "Senior QA"
   company: "Xing"
-  thumbnailUrl: nuno_matos_2.jpg
+  thumbnailUrl: nuno_matos_bw.jpg
   team: true
   ribbon:
     - {abbr: "PTM", title: "Porto Testers Meetup"}
