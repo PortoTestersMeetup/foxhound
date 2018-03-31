@@ -216,3 +216,4 @@ logisticsMapAutoDirections: false
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Porto"
+mapsKey: "AIzaSyCqpyH0iFRSb3Pj0qzhZJsiDpWwLznaMbA"
