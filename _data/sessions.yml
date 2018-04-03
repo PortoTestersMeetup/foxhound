@@ -19,7 +19,7 @@
   title: "Keynote"
   description: "TBA"
   subtype: keynote
-  speakers: [1]
+  #speakers: [1]
   language: en
   complexity: "TBA"
   #presentation: "https://speakerdeck.com/...."
@@ -29,7 +29,7 @@
   title: "Closure"
   description: "TBA"
   subtype: keynote
-  speakers: [1]
+  speakers: [8]
   language: en
   complexity: "TBA"
 -
@@ -39,7 +39,7 @@
   subtype: keynote
   speakers: [1]
   language: en
-  complexity: "TBA"
+  #complexity: "TBA"
 -
   id: 002
   title: "TBA"
@@ -47,7 +47,7 @@
   subtype: keynote
   speakers: [2]
   language: en
-  complexity: "TBA"
+  #complexity: "TBA"
 -
   id: 003
   title: "TBA"

@@ -1,27 +1,27 @@
 -
   id: 1
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
+  name: "Richard"
+  surname: "Bradshaw"
+  company: "FriendlyTesting"
+  title: "Software tester, Speaker and Trainer"
+  bio: "Director and tester at FriendlyTesting; \"BossBoss\" at Ministry of Testing"
+  thumbnailUrl: richard_01.jpg
   rockstar: true
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/friendlytester"}
+    - {name: "site", link: "https://thefriendlytester.co.uk"}
 -
   id: 2
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
+  name: "Daniel"
+  surname: "Knott"
+  company: "Xing"
+  title: "Lead Mobile Tester"
+  bio: "Lead Mobile Tester working with Xing. Author of the book \"Hands-On Mobile App Testing\""
+  thumbnailUrl: daniel_02.jpg
   rockstar: true
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-  #  - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/dnlkntt"}
+    - {name: "site", link: "https://adventuresinqa.com/"}
 -
   id: 3
   name: "TBA"
@@ -44,7 +44,7 @@
   title: ""
   bio: "TBA"
   thumbnailUrl: user-200.png
-  rockstar: true
+  rockstar: false
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   #social:
@@ -58,7 +58,7 @@
   title: ""
   bio: "TBA"
   thumbnailUrl: user-200.png
-  rockstar: true
+  rockstar: false
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   #social:
@@ -75,6 +75,15 @@
   rockstar: false
 -
   id: 7
+  name: "TBA"
+  surname: ""
+  company: "TBA"
+  title: ""
+  bio: "TBA"
+  thumbnailUrl: user-200.png
+  rockstar: false
+-
+  id: 8
   name: "TBA"
   surname: ""
   company: "TBA"
