@@ -1,27 +1,28 @@
 -
   id: 1
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
+  name: "Richard"
+  surname: "Bradshaw"
+  company: "FriendlyTesting"
+  title: "Software tester, Speaker and Trainer"
+  bio: "Richard is currently the BossBoss at the <a href=\"https://ministryoftesting.com\">Ministry of Testing</a>, co-creator of the Automation in Testing (AiT) namespace, blogs at <a href=\"https://automationintesting.com\">https://automationintesting.com</a> and <a href=\"https://thefriendlytester.co.uk\">https://thefriendlytester.co.uk</a>. Tweeting over at <a href=\"https://twitter.com/friendlytester\">@FriendlyTester</a> and also the creator of the YouTube channel <a href=\"https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ\">Whiteboard Testing</a>."
+  thumbnailUrl: richard_01.jpg
   rockstar: true
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/friendlytester"}
+    - {name: "site", link: "https://thefriendlytester.co.uk"}
+    - {name: "youtube", link: "https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ"}
 -
   id: 2
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
+  name: "Daniel"
+  surname: "Knott"
+  company: "Xing"
+  title: "Lead Mobile Tester"
+  bio: "Hi, my name is Daniel Knott and I am a passionate software tester since 2008. In my career I worked for companies from different industries such as IBM, Accenture, XING and AOE. In different agile projects I gained strong knowledge in different areas of software testing e.g. mobile, search and recommendation technologies, web and desktop applications. Since 2011, I am the blogger of this blog and publish posts about software testing, mobile testing and any other kind of interesting topics around software development. If I find the time, I am also a speaker at testing conferences and quality assurance articles. An overview of my publications can be found here. In 2014, I published my first book about mobile testing. The title of the book is “Hands-On Mobile App Testing” and can be purchased on http://www.handsonmobileapptesting.com/. In the beginning of 2016, Daniel released a new eBook called “Smartwatch App Testing” and is published at https://leanpub.com/smartwatchapptesting."
+  thumbnailUrl: daniel_02.jpg
   rockstar: true
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-  #  - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/dnlkntt"}
+    - {name: "site", link: "https://adventuresinqa.com/"}
 -
   id: 3
   name: "TBA"
@@ -44,7 +45,7 @@
   title: ""
   bio: "TBA"
   thumbnailUrl: user-200.png
-  rockstar: true
+  rockstar: false
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   #social:
@@ -58,7 +59,7 @@
   title: ""
   bio: "TBA"
   thumbnailUrl: user-200.png
-  rockstar: true
+  rockstar: false
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   #social:
@@ -75,6 +76,15 @@
   rockstar: false
 -
   id: 7
+  name: "TBA"
+  surname: ""
+  company: "TBA"
+  title: ""
+  bio: "TBA"
+  thumbnailUrl: user-200.png
+  rockstar: false
+-
+  id: 8
   name: "TBA"
   surname: ""
   company: "TBA"
