@@ -17,7 +17,7 @@
   surname: "Knott"
   company: "Xing"
   title: "Lead Mobile Tester"
-  bio: "Hi, my name is Daniel Knott and I am a passionate software tester since 2008. In my career I worked for companies from different industries such as IBM, Accenture, XING and AOE. In different agile projects I gained strong knowledge in different areas of software testing e.g. mobile, search and recommendation technologies, web and desktop applications. Since 2011, I am the blogger of this blog and publish posts about software testing, mobile testing and any other kind of interesting topics around software development. If I find the time, I am also a speaker at testing conferences and quality assurance articles. An overview of my publications can be found here. In 2014, I published my first book about mobile testing. The title of the book is “Hands-On Mobile App Testing” and can be purchased on http://www.handsonmobileapptesting.com/. In the beginning of 2016, Daniel released a new eBook called “Smartwatch App Testing” and is published at https://leanpub.com/smartwatchapptesting."
+  bio: "Hi, my name is Daniel Knott and I am a passionate software tester since 2008. In my career I worked for companies from different industries such as IBM, Accenture, XING and AOE. In different agile projects I gained strong knowledge in different areas of software testing e.g. mobile, search and recommendation technologies, web and desktop applications. Since 2011, I am the blogger of this blog and publish posts about software testing, mobile testing and any other kind of interesting topics around software development. If I find the time, I am also a speaker at testing conferences and quality assurance articles. An overview of my publications can be found here. In 2014, I published my first book about mobile testing. The title of the book is “Hands-On Mobile App Testing” and can be purchased on <a href=\"http://www.handsonmobileapptesting.com/\">http://www.handsonmobileapptesting.com/</a>. In the beginning of 2016, Daniel released a new eBook called “Smartwatch App Testing” and is published at <a href=\"https://leanpub.com/smartwatchapptesting\">https://leanpub.com/smartwatchapptesting</a>."
   thumbnailUrl: daniel_02.jpg
   rockstar: true
   social:
@@ -25,18 +25,16 @@
     - {name: "site", link: "https://adventuresinqa.com/"}
 -
   id: 3
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
+  name: "Anastasia"
+  surname: "Chicu"
+  company: "Xing"
+  title: "Agile Tester"
+  bio: "Anna is an Agile Tester at XING with over 4 years of digital experience. Since joining XING she has coordinated testing activities, supported her team and the product department, and organised regular trainings to the User Care team. Her past experience as QA in an outsourcing company has helped her develop effective communication skills in her team and with other departments. Her debate experience, on the other hand, determined her to trigger constructive discussions that add value to the product."
+  thumbnailUrl: anna_bw.jpg
   rockstar: true
-  #ribbon:
-  #  - {abbr: "PTM", title: "Porto Testers Meetup Organizer", url: "https://portotestersmeetup.github.io"}
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-  #  - {name: "twitter", link: "https://twitter.com/mherych"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/anastasiachicu"}
+    - {name: "github", link: "https://github.com/deepblueness"}
 -
   id: 4
   name: "TBA"

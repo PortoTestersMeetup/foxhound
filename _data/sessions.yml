@@ -42,20 +42,20 @@
   #complexity: "TBA"
 -
   id: 002
-  title: "TBA"
-  description: "TBA"
+  title: "How to Scale Mobile Testing Across Several Teams"
+  description: "All started in 2010 when XING, the largest business network in German speaking countries, decided to go mobile and to staff a team with 2 iOS and Android developers, 2 software testers, 1 product manager and a freelance mobile designer. Back then the mobile team developed against a non-public API and tried to catch up with features from the web platform that had been developed over the past 7 years. In the initial 2 years everything was working more or less fine, but mobile traffic increased and exceeded half of the overall traffic of XING.com including iOS, Android and Windows Phone. Alongside the increased traffic, customers requested more mobile features, but feature development speed of the singular mobile team was too slow. The development approach with only one mobile team did not scale compared to over 200 web developers in more than 15 teams. Therefore, the company decided to adapt the scale of the mobile development to the whole company and unleash mobile development onto the web teams. As of early 2015, XING has 7 mobile teams with iOS and Android developers as well as software testers. The so-called domain teams are now responsible for feature development on web and mobile. However, the scaling onto multiple mobile development teams exceeding a total of 50 people bore new challenges that had to be solved. In this talk Daniel will show you how XING is scaling mobile development and testing efforts to 7 mobile teams with more than 20 mobile developers and 12 (mobile) software testers. He will explain how the bi-weekly releases are coordinated and organized and how real users play an important role in the release process. The second part of this talk will concentrate on the mobile test automation solutions that are in use within the XING mobile teams and how an internal device cloud was established to provide several devices to all the mobile teams across different locations."
   subtype: keynote
   speakers: [2]
   language: en
   #complexity: "TBA"
 -
   id: 003
-  title: "TBA"
-  description: "TBA"
+  title: "My Product: My Friend , My Teacher, My Guide"
+  description: "\"How my product knowledge aids my testing\" -- In agile teams, we focus on delivering value to our customers continuously and incrementally. In order to do that, testers need to be able to decide on priorities based on risk and impact. What’s the best way to do that? I think it’s about effectively employing our product knowledge to support the team in all test-related activities. Most of us gather product knowledge by testing and re-testing or asking questions in grooming and plannings. So testing activities is what makes most of us product specialists. How do we discover more about product's dark sides? Should the architecure of the product giude our testing? What are can we learn about the product from a pull request? Since these product insights are at the core of our decisions, can we be more effective at gathering and employing them? This talk is about applying a set of learning models (e.g. David Kolb's model) to discover the feature and technical sides of a software product."
   subtype: keynote
   speakers: [3]
   language: en
-  complexity: "TBA"
+  #complexity: "TBA"
 -
   id: 004
   title: "TBA"
