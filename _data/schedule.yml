@@ -4,16 +4,24 @@
   tracks:
     - {title: "Conference Track", color: "#e91e63"}
   timeslots:
+    # TODO: replace again the '#'-commented entries
     - {startTime: "9:00",endTime: "",sessionIds: [309]}
     - {startTime: "9:40",endTime: "",sessionIds: [500]}
-    - {startTime: "10:00",endTime: "",sessionIds: [001]}
+    - {startTime: "10:00",endTime: "",sessionIds: [007]}
+    #- {startTime: "10:00",endTime: "",sessionIds: [001]}
     - {startTime: "11:45",endTime: "",sessionIds: [307]}
-    - {startTime: "11:00",endTime: "",sessionIds: [002]}
-    - {startTime: "12:00",endTime: "",sessionIds: [003]}
+    - {startTime: "11:00",endTime: "",sessionIds: [007]}
+    - {startTime: "12:00",endTime: "",sessionIds: [007]}
+    #- {startTime: "11:00",endTime: "",sessionIds: [002]}
+    #- {startTime: "12:00",endTime: "",sessionIds: [003]}
     - {startTime: "13:00",endTime: "",sessionIds: [308]}
-    - {startTime: "14:00",endTime: "",sessionIds: [004]}
-    - {startTime: "15:00",endTime: "",sessionIds: [005]}
+    - {startTime: "14:00",endTime: "",sessionIds: [007]}
+    - {startTime: "15:00",endTime: "",sessionIds: [007]}
+    #- {startTime: "14:00",endTime: "",sessionIds: [004]}
+    #- {startTime: "15:00",endTime: "",sessionIds: [005]}
     - {startTime: "15:45",endTime: "",sessionIds: [307]}
-    - {startTime: "16:00",endTime: "",sessionIds: [006]}
+    - {startTime: "16:00",endTime: "",sessionIds: [007]}
     - {startTime: "17:00",endTime: "",sessionIds: [007]}
+    #- {startTime: "16:00",endTime: "",sessionIds: [006]}
+    #- {startTime: "17:00",endTime: "",sessionIds: [007]}
     - {startTime: "18:00",endTime: "",sessionIds: [501]}
