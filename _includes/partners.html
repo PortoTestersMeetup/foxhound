@@ -22,8 +22,11 @@
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
-                        <!-- <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}"> -->
-                        <img src="{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        {% if element.isAnnounced == "yes" %}
+                            <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        {% else %}
+                            <img src="{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        {% endif %}
                     </a>
                 </li>
                 {% endfor %}

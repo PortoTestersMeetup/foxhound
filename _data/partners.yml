@@ -1,16 +1,16 @@
 - 
   group: "Diamond sponsor"
-  elements: 
-    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
+  elements:
+    - {name: "XING", description: "European career-oriented social networking site for enabling a small-world network for professionals.", link: "https://www.xing.com/", imageUrl: "xing_logo.png", isAnnounced: "yes"}
 - 
   group: "Gold sponsors"
-  elements: 
+  elements:
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
 - 
   group: "Silver sponsors"
-  elements: 
+  elements:
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
