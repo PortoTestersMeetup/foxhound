@@ -37,56 +37,51 @@
     - {name: "github", link: "https://github.com/deepblueness"}
 -
   id: 4
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
+  name: "Pedro"
+  surname: "Pereira"
+  company: "byAR Augment Your Reality"
+  title: "CEO"
   bio: "TBA"
   thumbnailUrl: user-200.png
   rockstar: false
-  #ribbon:
-  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-  #  - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodpereira"}
 -
   id: 5
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
+  name: "Marta"
+  surname: "Torneiro"
+  company: "Hostelworld Group"
+  title: "QA Team Lead"
   bio: "TBA"
-  thumbnailUrl: user-200.png
+  thumbnailUrl: marta_torneiro_ptmconf_bw.jpg
   rockstar: false
-  #ribbon:
-  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social:
-  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #  - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martatorneiro/"}
 -
   id: 6
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
+  name: "Renato"
+  surname: "Rodrigues"
+  company: "Farfetch"
+  title: "Senior Application Security Analyst"
   bio: "TBA"
-  thumbnailUrl: user-200.png
+  thumbnailUrl: renato_rodrigues_ptmconf_bw.jpg
   rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/simps0n"}
+    - {name: "site", link: "http://www.pathonproject.com/"}
+    - {name: "github", link: "https://github.com/simpsonpt"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/simpsonpt"}
 -
   id: 7
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
+  name: "Pedro"
+  surname: "Tavares"
+  company: "Talkdesk"
+  title: "Software Engineer"
   bio: "TBA"
-  thumbnailUrl: user-200.png
+  thumbnailUrl: pedro_tavares_ptmconf_bw.jpg
   rockstar: false
--
-  id: 8
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
-  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/ordepdev"}
+    - {name: "site", link: "http://ordepdev.me/"}
+    - {name: "github", link: "https://github.com/ordepdev"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ordepdev"}
