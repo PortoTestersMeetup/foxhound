@@ -5,7 +5,7 @@
 - 
   group: "Gold sponsors"
   elements:
-    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
+    - {name: "Jumia", description: "World-class, affordable and convenient online services for consumers in Africa.", link: "https://group.jumia.com/", imageUrl: "jumia_group_logo.png", isAnnounced: "yes"}
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
 - 
