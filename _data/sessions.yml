@@ -82,9 +82,9 @@
   complexity: "TBA"
 -
   id: 007
-  title: "TBA"
-  description: "TBA"
+  title: "Test-Driven Developers: Building a testing culture."
+  description: "Software engineering is much more than coding. It is “an engineering discipline that is concerned with all aspects of software production”. We are responsible for the code we write. We should not release untested code, and we should not ask our peers to perform code reviews without delivering a solid test suite. It’s our job to reduce the bugs that are found after the development phase. Although, we live surrounded by bad practices, stress, and fear of missing a delivery timeline. We all work or worked on projects with those characteristics and if we don't enforce a shared culture of testing, no matter what, the quality of the software that we produce will suffer. With this talk/topic, I want to share the problems and solutions that will enable us to create a shared testing culture across our team and company."
   subtype: keynote
   speakers: [7]
   language: en
-  complexity: "TBA"
+  #complexity: "TBA"
