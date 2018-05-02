@@ -25,15 +25,15 @@ organizerName: "Porto Testers Meetup"
 organizerAlternateName: "Porto Testers Meetup"
 organizerDescription: "A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing."
 organizerEmail: "portotestersmeetup@gmail.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/seo/ptm_logo.png"
 organizerLink: "https://portotestersmeetup.github.io"
 
 # Head
 metaKeywords: "event, testing, programming, testers, developers, porto"
 twitterAccount: "@PTMConf"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/ptm_logo.png"
+socialImageSrcTwitter: "/img/seo/ptm_logo.png"
+socialImageSrcFacebook: "/img/seo/ptm_logo.png"
 
 # Documents
 c4pUrl: "https://goo.gl/yeo83v"
