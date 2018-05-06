@@ -63,14 +63,14 @@
   surname: "Rodrigues"
   company: "Farfetch"
   title: "Senior Application Security Analyst"
-  bio: "TBA"
-  thumbnailUrl: renato_rodrigues_ptmconf_bw.jpg
+  bio: " Holder of a MSc in Informatics Engineering, with high interest in security issues, working in the AppSec world for a while. Speaker and trainer in conferences like BSides, OWASP and others security and IT related. Curator of an AppSec Ezine and promoter of a security enthusiasts group (0xOPOSEC Meetup) – more than breaking through challenges, it is all about sharing the knowledge."
+  thumbnailUrl: renato_rodrigues_b2.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/simps0n"}
-    - {name: "site", link: "http://www.pathonproject.com/"}
+    #- {name: "site", link: "http://www.pathonproject.com/"}
     - {name: "github", link: "https://github.com/simpsonpt"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/simpsonpt"}
+    #- {name: "linkedin", link: "https://www.linkedin.com/in/simpsonpt"}
 -
   id: 7
   name: "Pedro"
