@@ -6,7 +6,7 @@
   group: "Gold sponsors"
   elements:
     - {name: "Jumia", description: "World-class, affordable and convenient online services for consumers in Africa.", link: "https://group.jumia.com/", imageUrl: "jumia_group_logo.png", isAnnounced: "yes"}
-    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
+    - {name: "i2S", description: "i2S is a company specialised in delivering best-in-class software products for the Life insurance business. With over 30 years of experience, an impressive track-record in the successful implementation of core systems, and a team of professionals specialised in the insurance field, i2S is the vendor of choice of leading insurance companies. i2S provides a robust suite of products, in line with the business’s best practices, which allows the implementation of insurance products with the best time to market and maximum autonomy and flexibility. The company’s implementation partners' network offers additional expertise, complementary solutions and proximity to clients, thus ensuring a successful implementation, with a positive impact on the clients’ businesses and effective return on investment.", link: "http://www.i2s.pt/", imageUrl: "i2s.png", isAnnounced: "yes"}
     - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
 - 
   group: "Silver sponsors"
