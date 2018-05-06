@@ -37,56 +37,51 @@
     - {name: "github", link: "https://github.com/deepblueness"}
 -
   id: 4
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
+  name: "Pedro"
+  surname: "Pereira"
+  company: "byAR Augment Your Reality"
+  title: "CEO"
+  bio: "With the conviction that Augmented Reality (AR) is part of our present and future, in 2015, I founded byAR Augment Your Reality, a company that designs and develops digital experiences based on AR technologies. I'm responsible for the areas of creativity and management of the company. In the last two years I've been developing knowledge in the AR technologies, trends and market. I developed new interaction concepts and projects with devices of our future, for example, Microsoft Hololens. I started in 2001 as researcher and responsible for Virtual and Augmented Reality Group at Computer Graphics Research Institute (CCG). In this institute, during 4 years, I took part in some EU projectos for developing augmented reality technologies. Then, during 10 years, I took part of the innovation and creativity process, in several positions, namely in national and international sales management, development and project management and marketing management at Edigma, a company focused in developing interactive digital projects and multitouch technologies. I'm graduated in Computer Engineering and Computer Engineering and I have an MBA with a specialization in Marketing at Catholic Business School of Porto / ESADE in Barcelona. More recently, I attended to executive education course in Brand Management at Catholic Business School Lisbon."
+  thumbnailUrl: pedro_pereira_ptmconf_bw.jpg
   rockstar: false
-  #ribbon:
-  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social:
-  #  - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-  #  - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodpereira"}
 -
   id: 5
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
+  name: "Marta"
+  surname: "Torneiro"
+  company: "Hostelworld Group"
+  title: "QA Team Lead"
   bio: "TBA"
-  thumbnailUrl: user-200.png
+  thumbnailUrl: marta_torneiro_ptmconf_bw.jpg
   rockstar: false
-  #ribbon:
-  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social:
-  #  - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #  - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/martatorneiro/"}
 -
   id: 6
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
+  name: "Renato"
+  surname: "Rodrigues"
+  company: "Farfetch"
+  title: "Senior Application Security Analyst"
+  bio: " Holder of a MSc in Informatics Engineering, with high interest in security issues, working in the AppSec world for a while. Speaker and trainer in conferences like BSides, OWASP and others security and IT related. Curator of an AppSec Ezine and promoter of a security enthusiasts group (0xOPOSEC Meetup) – more than breaking through challenges, it is all about sharing the knowledge."
+  thumbnailUrl: renato_rodrigues_b2.jpg
   rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/simps0n"}
+    #- {name: "site", link: "http://www.pathonproject.com/"}
+    - {name: "github", link: "https://github.com/simpsonpt"}
+    #- {name: "linkedin", link: "https://www.linkedin.com/in/simpsonpt"}
 -
   id: 7
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
+  name: "Pedro"
+  surname: "Tavares"
+  company: "Talkdesk"
+  title: "Software Engineer"
+  bio: "Pedro is a passionate Software Engineer currently working at Talkdesk. Distributed Systems and Software Engineering best practices bring a big smile on his face. He likes to read books and scientific papers on Computer Science and he's currently running the Porto's chapter of Papers We Love."
+  thumbnailUrl: pedro_tavares_ptmconf_bw.jpg
   rockstar: false
--
-  id: 8
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: "TBA"
-  thumbnailUrl: user-200.png
-  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/ordepdev"}
+    - {name: "site", link: "http://ordepdev.me/"}
+    - {name: "github", link: "https://github.com/ordepdev"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ordepdev"}
