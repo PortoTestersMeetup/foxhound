@@ -7,7 +7,7 @@
   elements:
     - {name: "Jumia", description: "World-class, affordable and convenient online services for consumers in Africa.", link: "https://group.jumia.com/", imageUrl: "jumia_group_logo.png", isAnnounced: "yes"}
     - {name: "i2S", description: "i2S is a company specialised in delivering best-in-class software products for the Life insurance business.", link: "http://www.i2s.pt/", imageUrl: "i2s.png", isAnnounced: "yes"}
-    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
+    - {name: "HostelWorld", description: "World's leading hostel-focused online booking platform", link: "https://www.hostelworld.com/", imageUrl: "hostel-world-logo.png", isAnnounced: "yes"}
 - 
   group: "Silver sponsors"
   elements:
