@@ -1,0 +1,40 @@
+-
+  id: 0
+  name: "Helena"
+  surname: "Rodrigues"
+  title: "Quality Assurance Analyst"
+  company: "Jumia"
+  thumbnailUrl: user-200.png
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/helenarodrigues88"}
+-
+  id: 1
+  name: "Tiago"
+  surname: "Fernandes"
+  title: "Front End Software Engineer"
+  company: "Mindera"
+  thumbnailUrl: user-200.png
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/tiago-fernandes-283048107"}
+-
+  id: 2
+  name: "André"
+  surname: "Pinho"
+  title: "Mobile QA Automation Engineer"
+  company: "Farfetch"
+  thumbnailUrl: user-200.png
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/andré-fernandes-de-pinho-a104089a"}
+-
+  id: 3
+  name: "Sérgio"
+  surname: "Gouveia"
+  title: "Senior Quality Assurance Engineer"
+  company: "Jumia"
+  thumbnailUrl: user-200.png
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/sergiogouveia"}
