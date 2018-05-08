@@ -5,7 +5,7 @@
   company: "FriendlyTesting"
   title: "Software tester, Speaker and Trainer"
   bio: "Richard is currently the BossBoss at the <a href=\"https://ministryoftesting.com\">Ministry of Testing</a>, co-creator of the Automation in Testing (AiT) namespace, blogs at <a href=\"https://automationintesting.com\">https://automationintesting.com</a> and <a href=\"https://thefriendlytester.co.uk\">https://thefriendlytester.co.uk</a>. Tweeting over at <a href=\"https://twitter.com/friendlytester\">@FriendlyTester</a> and also the creator of the YouTube channel <a href=\"https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ\">Whiteboard Testing</a>."
-  thumbnailUrl: richard_01.jpg
+  thumbnailUrl: richard_01_resized.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/friendlytester"}
@@ -42,7 +42,7 @@
   company: "byAR Augment Your Reality"
   title: "CEO"
   bio: "With the conviction that Augmented Reality (AR) is part of our present and future, in 2015, I founded byAR Augment Your Reality, a company that designs and develops digital experiences based on AR technologies. I'm responsible for the areas of creativity and management of the company. In the last two years I've been developing knowledge in the AR technologies, trends and market. I developed new interaction concepts and projects with devices of our future, for example, Microsoft Hololens. I started in 2001 as researcher and responsible for Virtual and Augmented Reality Group at Computer Graphics Research Institute (CCG). In this institute, during 4 years, I took part in some EU projectos for developing augmented reality technologies. Then, during 10 years, I took part of the innovation and creativity process, in several positions, namely in national and international sales management, development and project management and marketing management at Edigma, a company focused in developing interactive digital projects and multitouch technologies. I'm graduated in Computer Engineering and Computer Engineering and I have an MBA with a specialization in Marketing at Catholic Business School of Porto / ESADE in Barcelona. More recently, I attended to executive education course in Brand Management at Catholic Business School Lisbon."
-  thumbnailUrl: pedro_pereira_ptmconf_bw.jpg
+  thumbnailUrl: pedro_pereira_ptmconf_bw_resized.jpg
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/pedrodpereira"}
@@ -53,7 +53,7 @@
   company: "Hostelworld Group"
   title: "QA Team Lead"
   bio: "TBA"
-  thumbnailUrl: marta_torneiro_ptmconf_bw.jpg
+  thumbnailUrl: marta_torneiro_ptmconf_bw_resized1.jpg
   rockstar: false
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/martatorneiro/"}
