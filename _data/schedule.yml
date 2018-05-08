@@ -7,7 +7,7 @@
     # TODO: replace again the '#'-commented entries
     - {startTime: "9:00",endTime: "",sessionIds: [309]}
     - {startTime: "9:40",endTime: "",sessionIds: [500]}
-    - {startTime: "10:00",endTime: "",sessionIds: [007]}
+    - {startTime: "10:00",endTime: "",sessionIds: [000]}
     #- {startTime: "10:00",endTime: "",sessionIds: [000]}
     - {startTime: "11:00",endTime: "",sessionIds: [000]}
     - {startTime: "11:45",endTime: "",sessionIds: [307]}
