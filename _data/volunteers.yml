@@ -14,10 +14,11 @@
   surname: "Fernandes"
   title: "Front End Software Engineer"
   company: "Mindera"
-  thumbnailUrl: user-200.png
+  thumbnailUrl: tiago_fernandes.jpg
   team: true
   social:
     - {name: "linkedin", link: "https://linkedin.com/in/tiago-fernandes-283048107"}
+    - {name: "github", link: "https://github.com/tjbfernandes"}
 -
   id: 2
   name: "André"
