@@ -38,3 +38,13 @@
   team: true
   social:
     - {name: "linkedin", link: "https://linkedin.com/in/sergiogouveia"}
+-
+  id: 4
+  name: "Ana"
+  surname: "Correia"
+  title: "Graphic Designer"
+  company: "LPL Multimédia"
+  thumbnailUrl: user-200.png
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/anac-correia"}
