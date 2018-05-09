@@ -172,7 +172,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://facebook.com/PortoTestersMeetup/", icon: "facebook"}
+ - {link: "https://www.facebook.com/PTMConf/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
