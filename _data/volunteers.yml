@@ -25,7 +25,7 @@
   surname: "Pinho"
   title: "Mobile QA Automation Engineer"
   company: "Farfetch"
-  thumbnailUrl: user-200.png
+  thumbnailUrl: andre_pinho_bw.jpg
   team: true
   social:
     - {name: "linkedin", link: "https://linkedin.com/in/andré-fernandes-de-pinho-a104089a"}
@@ -35,7 +35,7 @@
   surname: "Gouveia"
   title: "Senior Quality Assurance Engineer"
   company: "Jumia"
-  thumbnailUrl: user-200.png
+  thumbnailUrl: sergio_gouveia_bw.jpg
   team: true
   social:
     - {name: "linkedin", link: "https://linkedin.com/in/sergiogouveia"}
@@ -45,7 +45,7 @@
   surname: "Correia"
   title: "Graphic Designer"
   company: "LPL Multimédia"
-  thumbnailUrl: user-200.png
+  thumbnailUrl: ana_correia_bw.jpg
   team: true
   social:
     - {name: "linkedin", link: "https://linkedin.com/in/anac-correia"}
