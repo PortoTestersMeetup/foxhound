@@ -67,7 +67,7 @@ eventDate: "16th June, 2018"
 aboutTitle: "About PTM Conf"
 aboutBlock:
   - {title: "PTM", text: "Porto Testers Meetup is a group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing." }
-  - {title: "The conference", text: "From the local meetup events to the \"real deal\", PTM Conf is our contribution the the community in the form of a 1-day conference." }
+  - {title: "The conference", text: "From the local meetup events to the \"real deal\", PTM Conf is our contribution to the community in the form of a 1-day conference." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
