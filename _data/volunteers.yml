@@ -1,0 +1,51 @@
+-
+  id: 0
+  name: "Helena"
+  surname: "Rodrigues"
+  title: "Quality Assurance Analyst"
+  company: "Jumia"
+  thumbnailUrl: helena_rodrigues.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/helenarodrigues88"}
+-
+  id: 1
+  name: "Tiago"
+  surname: "Fernandes"
+  title: "Front End Software Engineer"
+  company: "Mindera"
+  thumbnailUrl: tiago_fernandes.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/tiago-fernandes-283048107"}
+    - {name: "github", link: "https://github.com/tjbfernandes"}
+-
+  id: 2
+  name: "André"
+  surname: "Pinho"
+  title: "Mobile QA Automation Engineer"
+  company: "Farfetch"
+  thumbnailUrl: andre_pinho_bw.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/andré-fernandes-de-pinho-a104089a"}
+-
+  id: 3
+  name: "Sérgio"
+  surname: "Gouveia"
+  title: "Senior Quality Assurance Engineer"
+  company: "Jumia"
+  thumbnailUrl: sergio_gouveia_bw.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/sergiogouveia"}
+-
+  id: 4
+  name: "Ana"
+  surname: "Correia"
+  title: "Graphic Designer"
+  company: "LPL Multimédia"
+  thumbnailUrl: ana_correia_bw.jpg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://linkedin.com/in/anac-correia"}
