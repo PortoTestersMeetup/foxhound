@@ -88,3 +88,12 @@
   speakers: [7]
   language: en
   #complexity: "TBA"
+
+-
+  id: 000
+  title: "TBA"
+  description: "TBA"
+  subtype: keynote
+  speakers: [0]
+  language: en
+  #complexity: "TBA"

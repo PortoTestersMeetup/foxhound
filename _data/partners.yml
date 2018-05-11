@@ -11,7 +11,7 @@
 - 
   group: "Silver sponsors"
   elements:
-    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
-    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
-    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
-    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "http://via.placeholder.com/350x150?text=TBA"}
+    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "https://via.placeholder.com/350x150?text=TBA"}
+    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "https://via.placeholder.com/350x150?text=TBA"}
+    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "https://via.placeholder.com/350x150?text=TBA"}
+    - {name: "TBA", description: "TBA", link: "https://---", imageUrl: "https://via.placeholder.com/350x150?text=TBA"}

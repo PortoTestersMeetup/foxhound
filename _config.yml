@@ -14,10 +14,10 @@ title: "PTM Conf"
 email: "portotestersmeetup@gmail.com"
 description: "PTM Conf 2018"
 baseurl: ""
-url: "http://ptmconf.com"
+url: "https://ptmconf.com"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-XXXXXXXX-X"
-#googleAnalyticsSiteUrl: "foxhound.github.io"
+googleAnalyticsTrackingId: "UA-118978052-1"
+googleAnalyticsSiteUrl: "https://ptmconf.com"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -56,7 +56,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "PTM Conf 2018"
-eventDate: "June, 2018"
+eventDate: "16th June, 2018"
 #typeoutTextValues: '"", "Portugal", "Porto"'
 #typeoutFallback: "Porto"
 # heroButtons:
@@ -67,7 +67,7 @@ eventDate: "June, 2018"
 aboutTitle: "About PTM Conf"
 aboutBlock:
   - {title: "PTM", text: "Porto Testers Meetup is a group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing." }
-  - {title: "The conference", text: "From the local meetup events to the \"real deal\", PTM Conf is our contribution the the community in the form of a 1-day conference." }
+  - {title: "The conference", text: "From the local meetup events to the \"real deal\", PTM Conf is our contribution to the community in the form of a 1-day conference." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -115,7 +115,7 @@ venueFeatures: ["restaurant", "free Wi-Fi", "near public transports"]
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "ptmconf"
-twitterFeed: "http://google.com"
+twitterFeed: "https://google.com"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -138,7 +138,7 @@ ticketsOffers:
   priceCurrency: "Euro"
   ticketsNumber: "150"
   ribbon: "-5%"
-  buyButtonLink: "http://google.com/"
+  buyButtonLink: "https://google.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
@@ -150,7 +150,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://google.com/"
+  buyButtonLink: "https://google.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
@@ -161,7 +161,7 @@ ticketsOffers:
   price: "200"
   priceCurrency: "Euro"
   ticketsNumber: "50"
-  buyButtonLink: "http://google.com/"
+  buyButtonLink: "https://google.com/"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -172,7 +172,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://facebook.com/PortoTestersMeetup/", icon: "facebook"}
+ - {link: "https://www.facebook.com/PTMConf/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
