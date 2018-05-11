@@ -16,8 +16,8 @@ description: "PTM Conf 2018"
 baseurl: ""
 url: "https://ptmconf.com"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-XXXXXXXX-X"
-#googleAnalyticsSiteUrl: "foxhound.github.io"
+googleAnalyticsTrackingId: "UA-118978052-1"
+googleAnalyticsSiteUrl: "https://ptmconf.com"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
