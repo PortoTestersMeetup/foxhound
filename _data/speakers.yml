@@ -6,6 +6,7 @@
   title: "Software tester, Speaker and Trainer"
   bio: "Richard is currently the BossBoss at the <a href=\"https://ministryoftesting.com\">Ministry of Testing</a>, co-creator of the Automation in Testing (AiT) namespace, blogs at <a href=\"https://automationintesting.com\">https://automationintesting.com</a> and <a href=\"https://thefriendlytester.co.uk\">https://thefriendlytester.co.uk</a>. Tweeting over at <a href=\"https://twitter.com/friendlytester\">@FriendlyTester</a> and also the creator of the YouTube channel <a href=\"https://www.youtube.com/channel/UC0QZWhi0ojqNte3ey7RD0qQ\">Whiteboard Testing</a>."
   thumbnailUrl: richard_01_resized.jpg
+  mainKeynote: true
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/friendlytester"}
