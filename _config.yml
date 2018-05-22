@@ -133,8 +133,8 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Standard Ticket"
-  price: "15"
+  name: "Standard Pass"
+  price: "10"
   priceCurrency: "Euro"
   #ticketsNumber: "120"
   buyButtonLink: "https://www.last2ticket.com/en/events/875/sessions/20014/ptm-conf-2018"
