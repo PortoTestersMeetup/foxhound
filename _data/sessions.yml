@@ -21,7 +21,7 @@
   subtype: keynote
   #speakers: [1]
   language: en
-  complexity: "TBA"
+  #complexity: "TBA"
   #presentation: "https://speakerdeck.com/...."
   #video: "//www.youtube.com/embed/..."
 -
@@ -31,7 +31,7 @@
   subtype: keynote
   speakers: [8]
   language: en
-  complexity: "TBA"
+  #complexity: "TBA"
 -
   id: 001
   title: "Redefining Test Automation"
@@ -63,21 +63,19 @@
   subtype: keynote
   speakers: [4]
   language: en
-  complexity: "TBA"
+  #complexity: "TBA"
 -
   id: 005
-  title: "TBA"
-  description: "TBA"
+  title: "The QA extension - how you can be unique!"
+  description: "We’re currently going through lots of changes when it comes to development methodologies, and moving towards a DevOps world, it seems that QAs are becoming extinct and no longer have a place in development teams, unless they’re focused on automation. Having this challenge in mind, it’s important to think about how the “common QA” can actually be extended and how he or she can be unique and bring value to any team. In this talk, I’ll explore how QAs should understand the business logic and how to use that knowledge in the best way possible and apply it to their daily work. For that, I’ll give you a few guidelines, show you some tools, browser extensions and techniques."
   subtype: keynote
   speakers: [5]
   language: en
-  complexity: "TBA"
+  #complexity: "TBA"
 -
   id: 006
   title: "Security in the wild - Being at the top of the food chain"
-  description: "In a modern software house, security is a top priority. It is a fast-paced working environment focused on continuous delivery and integration. Keeping up is an endless and demanding challenge for the security team. Issues arise and must be addressed efficiently and in an expedited manner. Besides keeping abreast with emerging technology, the team needs to develop strategies that ultimately work within the organisation.
-
-Can classic analysis tools be used on a strict time cycle? How can a security team handle the demands of a product team? How to ensure that everyone is on the same page and understands what’s under the hood? In seeking answers to these questions, this talk assembles a set of tips and tricks by showing some work and spikes used in a real software house. One hopes to provide a potential roadmap for the implementation of secure and improved Software Developing Life Cycles."
+  description: "In a modern software house, security is a top priority. It is a fast-paced working environment focused on continuous delivery and integration. Keeping up is an endless and demanding challenge for the security team. Issues arise and must be addressed efficiently and in an expedited manner. Besides keeping abreast with emerging technology, the team needs to develop strategies that ultimately work within the organisation. Can classic analysis tools be used on a strict time cycle? How can a security team handle the demands of a product team? How to ensure that everyone is on the same page and understands what’s under the hood? In seeking answers to these questions, this talk assembles a set of tips and tricks by showing some work and spikes used in a real software house. One hopes to provide a potential roadmap for the implementation of secure and improved Software Developing Life Cycles."
   subtype: keynote
   speakers: [6]
   language: en
