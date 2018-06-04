@@ -1,7 +1,7 @@
 - 
   group: "Diamond sponsor"
   elements:
-    - {name: "XING", description: "European career-oriented social networking site for enabling a small-world network for professionals.", link: "https://www.xing.com/", imageUrl: "xing_logo.png", isAnnounced: "yes"}
+    - {name: "XING", description: "XING is the leading professional network in the German speaking markets. Over 300 engineers and testers collaborate between 7 offices across Europe, including Porto.", link: "https://www.xing.com/", imageUrl: "xing_logo.png", isAnnounced: "yes"}
 - 
   group: "Gold sponsors"
   elements:
