@@ -1,13 +1,19 @@
 -
-  id: 307
-  title: "Break"
-  place: "TBA"
+  id: 306
+  title: "Opening"
+  place: ""
   service: true
-  description: "TBA"
+  description: ""
+-
+  id: 307
+  title: "Interval"
+  place: ""
+  service: true
+  description: ""
 -
   id: 308
-  title: "Lunch break"
-  place: "TBA"
+  title: "Launch*"
+  place: ""
   service: true
 -
   id: 309
@@ -26,7 +32,7 @@
   #video: "//www.youtube.com/embed/..."
 -
   id: 501
-  title: "Closure"
+  title: "Conference closure"
   description: "TBA"
   subtype: keynote
   speakers: [8]
