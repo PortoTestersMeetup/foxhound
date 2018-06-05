@@ -7,5 +7,4 @@
   elements:
     - {name: "GDG Porto", description: "Google Developer Group - Porto chapter", link: "http://gdgporto.xyz/", imageUrl: "gdgporto.png"}
     - {name: "Ministry of Testing", description: "Ministry of Testing", link: "https://www.ministryoftesting.com/", imageUrl: "ministry-of-testing.png"}
-    - {name: "Last2Ticket", description: "Last2Ticket", link: "http://last2ticket.com/en", imageUrl: "L2T_logo.png"}
-    
+    #- {name: "Last2Ticket", description: "Last2Ticket", link: "http://last2ticket.com/en", imageUrl: "L2T_logo.png"}
